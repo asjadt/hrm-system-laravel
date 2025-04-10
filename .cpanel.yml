@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/mughalsign/public_html/business-management
+    - /bin/cp -r * $DEPLOYPATH #copy all from root
+    - /bin/cp -R .env $DEPLOYPATH
+    - /bin/cp -R .htaccess $DEPLOYPATH

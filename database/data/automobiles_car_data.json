@@ -1,0 +1,2475 @@
+[
+  {
+    "toyota": [
+      {
+        "corolla": [
+          "2-0d",
+          "20d-limited",
+          "20d-saloon",
+          "20d-saloon-sr",
+          "20d-special-edition",
+          "1-6",
+          "altis-1-6-x-cvt-i",
+          "altis-1-6-x-cvt-i-special-edition",
+          "altis-1-8",
+          "altis-1-6-automatic",
+          "altis-1-8-automatic",
+          "1-6-cruisetronic",
+          "1-8-cruisetronic",
+          "altis-1-8-cvti",
+          "altis-1-8-grande",
+          "altis-1-8-grande-automatic",
+          "altis-grande-x-cvt-i-1-8-beige",
+          "altis-grande-x-cvt-i-1-8-black-interior",
+          "altis-manual-1-6",
+          "altis-sportivo",
+          "altis-sportivo-automatic",
+          "altis-1-6-sr",
+          "altis-1-8-sr",
+          "1-6-cruisetronic-sr",
+          "1-8-cruisetronic-sr",
+          "altis-x-1-8",
+          "altis-x-automatic-1-6",
+          "altis-x-automatic-1-6-special-edition",
+          "altis-x-cvt-i-1-8",
+          "altis-x-manual-1-6",
+          "dx",
+          "dx-saloon",
+          "g--38",
+          "g-l-package-1-5",
+          "gl",
+          "gl-saloon",
+          "gli--2",
+          "gli-vvti",
+          "gli-vvti-ecotec",
+          "gli-1-3-vvti-special-edition",
+          "1-6-gli",
+          "gli-vvti-automatic",
+          "1-6-gli-automatic",
+          "1-6-gli-dual-vvti-automatic-limited-edition",
+          "gli-vvti-limited-edition",
+          "1-6-gli-se",
+          "luxel",
+          "lx-limited",
+          "lx-limited-1-5",
+          "se-2",
+          "se-limited",
+          "se-saloon-2",
+          "se-saloon-automatic",
+          "tx-2",
+          "x-1-3--4",
+          "x-1-5--5",
+          "x-assista-package-1-5",
+          "x-hid-40th-anniversary-limited-1-5",
+          "x-hid-limited-1-5--2",
+          "x-l-package-1-3--2",
+          "xe-2",
+          "xe-limited",
+          "xe-g",
+          "xl--3",
+          "xli-2",
+          "xli-automatic",
+          "xli-vvti",
+          "xli-vvti-ecotec",
+          "xli-limited-edition"
+        ]
+      },
+      {
+        "yaris": [
+          "ativ-cvt-1-3",
+          "ativ-mt-1-3",
+          "ativ-x-cvt-1-5",
+          "ativ-x-mt-1-5",
+          "gli-cvt-1-3",
+          "gli-mt-1-3"
+        ]
+      },
+      {
+        "aqua": [
+          "crossover",
+          "g--37",
+          "g-gr-sports",
+          "g-gs",
+          "g-led-soft-leather-selection",
+          "g-sports",
+          "gs--5",
+          "l--16",
+          "s--15",
+          "x-urban",
+          "x-urban-solid",
+          "z--4"
+        ]
+      },
+      {
+        "fortuner": [
+          "2-7-g",
+          "2-7-v",
+          "2-7-automatic",
+          "2-8-sigma",
+          "legender",
+          "trd-sportivo"
+        ]
+      },
+      {
+        "prius": [
+          "a--3",
+          "a-premium",
+          "a-premium-touring-selection",
+          "a-touring-selection",
+          "ex-1-5",
+          "g-1-5",
+          "g-1-8",
+          "g-led-edition-1-8",
+          "g-touring-selection-1-5",
+          "1-8g-touring-selection",
+          "g-touring-selection-leather-package-1-5",
+          "g-touring-selection-leather-package-1-8",
+          "l-1-8",
+          "phv-plug-in-hybrid",
+          "s--28",
+          "s-1-5",
+          "s-1-8",
+          "s-led-edition-1-8",
+          "s-my-coorde-1-8",
+          "s-standard-package-1-5",
+          "s-touring-selection",
+          "s-touring-selection-1-5",
+          "1-8s-touring-selection",
+          "s-touring-selection-gs-1-8",
+          "s-touring-selection-my-coorde-1-8"
+        ]
+      },
+      {
+        "86": ["g--20", "gr", "gt", "gt-limited"]
+      },
+      {
+        "allex": []
+      },
+      {
+        "allion": [
+          "a15",
+          "a15-g-package",
+          "a18",
+          "a18-g-package",
+          "a18-g-package-luxury-edition"
+        ]
+      },
+      {
+        "alphard": []
+      },
+      {
+        "alphard-g": []
+      },
+      {
+        "alphard-hybrid": ["g-l-package--9"]
+      },
+      {
+        "altezza": []
+      },
+      {
+        "auris": ["x-1-5--3", "g-greige-selection-1-8"]
+      },
+      {
+        "avanza": ["1-5l-std", "1-5l-up-spec"]
+      },
+      {
+        "avensis": ["premium--7"]
+      },
+      {
+        "aygo": ["standard--6", "x--44"]
+      },
+      {
+        "bb": ["s-1-3--2"]
+      },
+      {
+        "belta": [
+          "g-1-3--2",
+          "x-1-0",
+          "x-1-3--2",
+          "x-business-a-package-1-0",
+          "x-business-a-package-1-3",
+          "x-business-b-package-1-0",
+          "x-business-b-package-1-3",
+          "x-l-package-1-3",
+          "x-s-package-1-0"
+        ]
+      },
+      {
+        "c-hr": [
+          "turbo-1-2-l",
+          "1-8-l",
+          "g--61",
+          "g-1-8--4",
+          "koba",
+          "s--32",
+          "s--39",
+          "s-led"
+        ]
+      },
+      {
+        "caldina": ["2-0-z"]
+      },
+      {
+        "cami": ["p", "q"]
+      },
+      {
+        "camry": [
+          "g--30",
+          "high-grade",
+          "hybrid--2",
+          "2-4-up-specs",
+          "2-4-up-specs-automatic"
+        ]
+      },
+      {
+        "carina": ["1-8-si"]
+      },
+      {
+        "celica": ["gt-r", "ss-ii-super-strut-package"]
+      },
+      {
+        "coaster": ["26-seater-f-l", "29-seater-f-l", "30-seater-f-l"]
+      },
+      {
+        "corolla-assista": ["x--15"]
+      },
+      {
+        "corolla-axio": [
+          "1-5-g",
+          "g-kurashiko-1-5",
+          "hybrid--3",
+          "luxel-1-5",
+          "1-8-luxel",
+          "luxel-alpha-edition-1-8",
+          "1-3-x",
+          "1-5-x",
+          "x-g-edition-1-3",
+          "x-hid-extra-limited-1-5",
+          "x-hid-limited-1-5",
+          "x-special-edition-1-5"
+        ]
+      },
+      {
+        "corolla-cross": [
+          "low-grade--2",
+          "premium-high-grade",
+          "smart-mid-grade"
+        ]
+      },
+      {
+        "corolla-fielder": [
+          "g-1-5--5",
+          "g-aerotourer-1-5",
+          "hybrid--4",
+          "hybrid-g",
+          "hybrid-g-w-b",
+          "hybrid-g-aerotourer",
+          "s-1-8--3",
+          "s-202",
+          "s-aerotourer-1-8",
+          "x-1-5--4",
+          "x-202",
+          "x-g-edition-1-5",
+          "x-hid-extra-limited-1-5--2",
+          "x-special-edition-1-5--2"
+        ]
+      },
+      {
+        "corolla-hatchback": ["sports--3"]
+      },
+      {
+        "corona": ["dx--6", "ex-saloon", "ex-saloon-g", "mark-1"]
+      },
+      {
+        "cressida": ["gl--8"]
+      },
+      {
+        "cresta": []
+      },
+      {
+        "crown": [
+          "athlete-2",
+          "athlete-g-package",
+          "athlete-premium",
+          "2-5-royal-saloon-i-four-premium-edition",
+          "royal-saloon--2",
+          "2-5-royal-saloon-i-four-anniversary-edition",
+          "royal-saloon-g",
+          "3-0-royal-saloon-i-four-premium-edition",
+          "rs-advance",
+          "super-deluxe",
+          "super-select"
+        ]
+      },
+      {
+        "duet": ["s--14", "v--2", "x--36"]
+      },
+      {
+        "dyna": []
+      },
+      {
+        "echo": []
+      },
+      {
+        "esquire": []
+      },
+      {
+        "estima": [
+          "2-4-i",
+          "aeras",
+          "aeras-g-edition",
+          "g--36",
+          "hybrid--7",
+          "x--27"
+        ]
+      },
+      {
+        "fj-cruiser": ["automatic--2", "manual--2"]
+      },
+      {
+        "gaia": []
+      },
+      {
+        "harrier": ["2-0-luxury", "elegance"]
+      },
+      {
+        "hiace": [
+          "commuter-std-roof-15-seater",
+          "commuter-highroof-dual-a-c",
+          "grand-cabin",
+          "3-0-high-roof",
+          "luxury-wagon-high-grade",
+          "2-7-mid-roof",
+          "standard-2-5",
+          "2-7-std",
+          "3-0-std",
+          "standard-ambulance-3-0",
+          "trh-214",
+          "trh-219",
+          "trh-224",
+          "trh-228",
+          "trh-229",
+          "standard-2-7-up-spec"
+        ]
+      },
+      {
+        "hilux": [
+          "4x2-s-c-deckless",
+          "4x2-standard",
+          "4x2-up-spec",
+          "4x4-double-cab-3-0-l",
+          "4x4-double-cab-standard",
+          "4x4-single-cab-standard",
+          "d-4d",
+          "d-4d-automatic",
+          "double-cab",
+          "e--9",
+          "e-2-8",
+          "invincible",
+          "invincible-x",
+          "revo-g-2-4",
+          "revo-g-2-8",
+          "revo-g-automatic-2-8",
+          "revo-g-automatic-3-0",
+          "revo-rocco",
+          "revo-v-automatic-2-8",
+          "revo-v-automatic-3-0",
+          "single-cab",
+          "sr5-4x4",
+          "tiger",
+          "vigo-champ-automatic",
+          "vigo-champ-gx",
+          "vigo-champ-trd-sportivo",
+          "vigo-champ-v",
+          "vigo-g",
+          "vigo-v"
+        ]
+      },
+      {
+        "isis": ["g--45", "l--23", "l-x-selection", "platana"]
+      },
+      {
+        "ist": ["1-3-a", "1-3-f--2", "1-5-a"]
+      },
+      {
+        "land-cruiser": [
+          "70-series-70th-anniversary-edition-facelift",
+          "79-series-30th-anniversary",
+          "amazon-4-2d",
+          "ax-2",
+          "ax-g-60th-black-leather-selection",
+          "ax-g-selection",
+          "cygnus",
+          "fj40",
+          "sw-gx-m-t",
+          "gx-4-2d",
+          "gx-4-5",
+          "gxr-3-5l",
+          "j40",
+          "rkr",
+          "vx-4-2d",
+          "vx-4-5",
+          "vx-4-7",
+          "vx-limi-4-2d",
+          "vx-limited-4-5",
+          "vx-limited-4-7",
+          "zx-2",
+          "zx-60th-black-leather-selection",
+          "zx-gasoline-3-5l"
+        ]
+      },
+      {
+        "liteace": []
+      },
+      {
+        "lucida": []
+      },
+      {
+        "mark-ii": ["grande-2-0", "grande-2-5"]
+      },
+      {
+        "mark-x": [
+          "250-g-l-package",
+          "250g-2",
+          "250g-f-package",
+          "250g-f-package-smart-edition",
+          "250g-s-package",
+          "250g-s-package-relax-selection",
+          "300-g-s-package",
+          "300g",
+          "300g-premium",
+          "350-rds",
+          "premium"
+        ]
+      },
+      {
+        "noah": [
+          "g--56",
+          "s--13",
+          "x-g-edition",
+          "x-l-selection",
+          "x-special-edition"
+        ]
+      },
+      {
+        "any-model-138": []
+      },
+      {
+        "passo": [
+          "1-0-plus-hana",
+          "1-3-plus-hana",
+          "plus-hana-apricot-collection",
+          "1-0-g",
+          "1-3-g--2",
+          "g-f-package",
+          "moda",
+          "moda-g",
+          "moda-s",
+          "plus-hana",
+          "1-0-x",
+          "x-1-3--5",
+          "x-f-package",
+          "x-g-package",
+          "x-kutsurogi",
+          "x-l-package",
+          "x-l-package-s",
+          "x-s--2",
+          "x-v-package"
+        ]
+      },
+      {
+        "pickup": []
+      },
+      {
+        "pixis": ["b--2", "d--3", "g--55", "gsa", "l--26", "x--38"]
+      },
+      {
+        "pixis-space": ["l--29"]
+      },
+      {
+        "pixis-van": []
+      },
+      {
+        "platz": ["f-1-0", "f-1-3"]
+      },
+      {
+        "porte": ["130i"]
+      },
+      {
+        "prado": [
+          "rx-2-7-3dr",
+          "rz-3-0d-3-door",
+          "rz-3-4-3-door",
+          "turbo-2-7",
+          "turbo-2-7-a-t",
+          "tx--4",
+          "tx-2-8d",
+          "tx-3-0d",
+          "tx-4-0",
+          "tx-l-package-2-7",
+          "tx-limited--3",
+          "tx-l-3-0d",
+          "tx-limited-3-4",
+          "tz-3-0d",
+          "tz-3-4",
+          "tz--2",
+          "tz-g-3-4",
+          "tz-g-selection",
+          "3-0l-vx--2",
+          "4-0-vx",
+          "vx-4-5d-automatic"
+        ]
+      },
+      {
+        "premio": [
+          "1-5l-f",
+          "f-ex-package-1-5",
+          "f-l-package-1-5",
+          "f-l-package-prime-green-selection-1-5",
+          "f-l-package-prime-selection-1-5",
+          "x-prime-selection-1-5",
+          "f-version-c-1-5",
+          "g-2-0",
+          "g-ex-package-2-0",
+          "g-superior-package-2-0",
+          "1-8l-x",
+          "1-8l-xex",
+          "x-ex-package-1-8",
+          "1-8l-xl",
+          "x-l-package-1-8",
+          "x-l-package-prime-selection-1-8",
+          "f-prime-selection-1-8",
+          "x-version-c-1-8"
+        ]
+      },
+      {
+        "prius-alpha": [
+          "g--44",
+          "g-touring",
+          "s--26",
+          "s-l-selection",
+          "s-touring",
+          "s-touring-selection-gr-sport"
+        ]
+      },
+      {
+        "probox": ["1-5l-f--2", "f-extra-package", "f-extra-package-limited"]
+      },
+      {
+        "ractis": ["g-1-3--3", "x-1-3--3", "s-1-5--3"]
+      },
+      {
+        "raize": ["x--42", "z--5"]
+      },
+      {
+        "raum": ["1-5--4"]
+      },
+      {
+        "rav4": ["g--31", "sports", "style-2", "2-4l-automatic", "x--22"]
+      },
+      {
+        "roomy": ["xs--10"]
+      },
+      {
+        "rush": [
+          "g--32",
+          "g-l-package--8",
+          "g-limited--3",
+          "g-m-t",
+          "s--31",
+          "x--23",
+          "x-smart-edition"
+        ]
+      },
+      {
+        "sai": []
+      },
+      {
+        "sera": ["basegrade--12"]
+      },
+      {
+        "sienta": ["g--33", "x-limited--7"]
+      },
+      {
+        "sprinter": ["250l"]
+      },
+      {
+        "starlet": ["1-0--2", "1-2", "1-3--2"]
+      },
+      {
+        "succeed": ["1-5l-ul", "tx-limited"]
+      },
+      {
+        "surf": [
+          "ssr-g-2-7",
+          "ssr-g-3-0d",
+          "ssr-g-3-4",
+          "ssr-g-4-0",
+          "ssr-x-2-7",
+          "ssr-x-3-0d",
+          "ssr-x-3-4",
+          "ssr-x-4-0"
+        ]
+      },
+      {
+        "tacoma": ["trd-sport"]
+      },
+      {
+        "tank": []
+      },
+      {
+        "townace": ["1-5-dx"]
+      },
+      {
+        "toyoace": []
+      },
+      {
+        "tundra": ["5-7i"]
+      },
+      {
+        "vanguard": ["s-g-package"]
+      },
+      {
+        "verossa": ["2-0--5"]
+      },
+      {
+        "vitz": [
+          "1-0-b",
+          "b-intelligent-package",
+          "1-0-b-s-edition",
+          "1-0-f",
+          "1-3-f",
+          "1-5-f",
+          "1-0-f-chambre-a-paris-collection",
+          "f-intelligent-package",
+          "1-0-f-limited",
+          "1-3-f-limited",
+          "1-0-f-limited-ii",
+          "f-m-package",
+          "f-safety-edition-ii",
+          "f-safety-edition-iii",
+          "f-smart-stop-package",
+          "1-0-f-smile-edition",
+          "1-0-fl",
+          "hybrid-f-1-5",
+          "hybrid-u-1-5",
+          "1-0-ill",
+          "1-3-ill",
+          "1-0-jewela",
+          "1-3-jewela",
+          "jewela-smart-stop-package",
+          "1-3-racy-rs--2",
+          "1-5-racy-rs",
+          "rs-c-package",
+          "1-0-u",
+          "1-3-u",
+          "u-smart-stop-package",
+          "1-5-b"
+        ]
+      },
+      {
+        "voxy": ["2-0-cvt--2", "zs"]
+      },
+      {
+        "will": []
+      },
+      {
+        "wish": [
+          "x-aero-sports-package-limited-1-8",
+          "x-limited-1-8",
+          "s-1-8--2",
+          "s-monotone-1-8",
+          "x-1-8--3",
+          "z-2-0",
+          "x-hid-selection"
+        ]
+      },
+      {
+        "yaris-cross": ["hybrid-z--2"]
+      },
+      {
+        "yaris-hatchback": ["1-5l-se"]
+      },
+      {
+        "iq": ["100g", "100x", "100x-2-seater"]
+      }
+    ]
+  },
+  {
+    "suzuki": [
+      {
+        "cultus": [
+          "auto-gear-shift-vxl",
+          "vxri-euro-ii",
+          "euro-ii-cng",
+          "limited-edition--2",
+          "vx-2",
+          "vx-cng-2",
+          "vxl-2",
+          "vxl-cng",
+          "vxli-2",
+          "vxli-cng",
+          "vxr",
+          "vxr-3",
+          "vxri-2",
+          "vxri-cng"
+        ]
+      },
+      {
+        "alto": [
+          "e",
+          "e-manual",
+          "eco-l",
+          "eco-s",
+          "eii",
+          "f--2",
+          "f-manual",
+          "g--4",
+          "g4",
+          "gii",
+          "l--27",
+          "memorial-of-the-30th-birth-anniversary",
+          "s-package--2",
+          "turbo-rs",
+          "vp",
+          "vs--2",
+          "vx-14",
+          "vx-cng",
+          "vxl--2",
+          "vxr-2",
+          "vxr-cng",
+          "vxr-ags",
+          "x--9"
+        ]
+      },
+      {
+        "wagon-r": [
+          "ags",
+          "fa",
+          "ft-limited",
+          "fx--2",
+          "fx-idling-stop",
+          "fx-limited",
+          "fx-limited-ii",
+          "fx-s-limited",
+          "hybrid-fz",
+          "limited--7",
+          "j-style",
+          "stingray-limited",
+          "t--4",
+          "x--14",
+          "vx",
+          "vxl",
+          "vxr"
+        ]
+      },
+      {
+        "swift": [
+          "1-3l-dlx",
+          "dlx-1-3-navigation",
+          "1-3-dlx-automatic",
+          "dlx-automatic-1-3-navigation",
+          "1-3-dx",
+          "gl-cvt",
+          "gl-cvt-limited-edition",
+          "gl-manual",
+          "glx-cvt",
+          "rs-1-0",
+          "sport-f-1-6",
+          "xg-1-2",
+          "xg-1-3",
+          "xg-c-selection",
+          "xg-l-package-1-3",
+          "xs-1-2"
+        ]
+      },
+      {
+        "apv": ["glx--2", "glx-cng"]
+      },
+      {
+        "alto-lapin": [
+          "10th-anniversary-limited",
+          "g--5",
+          "g-edition--2",
+          "limited--3",
+          "ss",
+          "x-limited--5"
+        ]
+      },
+      {
+        "baleno": [
+          "eli",
+          "gli-2",
+          "gli-p",
+          "16-gti",
+          "gxi",
+          "jxl",
+          "jxr",
+          "sports-2"
+        ]
+      },
+      {
+        "bolan": [
+          "st-cargo",
+          "dlx-cng",
+          "gl-cng",
+          "vx-3",
+          "std-cng",
+          "vx-euro-ii--2",
+          "vx-euro-ii-a-c"
+        ]
+      },
+      {
+        "cappuccino": ["0-7"]
+      },
+      {
+        "carry": ["standard--5"]
+      },
+      {
+        "celerio": ["vxi"]
+      },
+      {
+        "cervo": ["g--43", "g-limited--4", "sr--3"]
+      },
+      {
+        "ciaz": ["automatic", "manual"]
+      },
+      {
+        "every": ["ga", "join-2", "join-turbo", "pa", "pc", "pu"]
+      },
+      {
+        "every-wagon": [
+          "jp",
+          "jp-turbo",
+          "jp-turbo-limited",
+          "pz-turbo-2",
+          "pz-turbo-special"
+        ]
+      },
+      {
+        "fx": ["ga--3"]
+      },
+      {
+        "hustler": ["a--4", "g--54", "g-turbo--2", "x--41", "x-turbo"]
+      },
+      {
+        "ignis": ["alpha--4"]
+      },
+      {
+        "jimny": ["ga-mt", "jldx-m-t", "landventure", "sj10", "wild-wind", "xc"]
+      },
+      {
+        "jimny-sierra": [
+          "basegrade",
+          "land-venture",
+          "wild-wind--2",
+          "x-adventure"
+        ]
+      },
+      {
+        "kei": ["a", "b-turbo"]
+      },
+      {
+        "khyber": ["ga--2", "limited-edition--3", "plus--4"]
+      },
+      {
+        "kizashi": ["base-grade"]
+      },
+      {
+        "liana": [
+          "16l-axi",
+          "1-3-lxi-eminent",
+          "eminent-automatic",
+          "lxi-13l-manual-transmission",
+          "lxi-13l-manual-transmission-cng",
+          "sports",
+          "rxi-1-3-manual-transmission",
+          "rxi-cng"
+        ]
+      },
+      {
+        "lj80": []
+      },
+      {
+        "mr-wagon": [
+          "10th-anniversary-limited--11",
+          "eco-x-selection",
+          "g--7",
+          "wit-limited",
+          "x-idling-stop"
+        ]
+      },
+      {
+        "margalla": ["gl--5", "plus", "glx"]
+      },
+      {
+        "mega-carry": ["manual--3"]
+      },
+      {
+        "mehran": [
+          "vx-2",
+          "vx-cng--2",
+          "vx-euro-ii",
+          "vx-euro-ii-cng",
+          "vx-euro-ii-limited-edition",
+          "vxr-2",
+          "vxr-cng--4",
+          "vxr-euro-ii",
+          "vxr-euro-ii-cng"
+        ]
+      },
+      {
+        "any-model-137": []
+      },
+      {
+        "palette": ["g-limited", "sw-limited"]
+      },
+      {
+        "palette-sw": ["gs--2"]
+      },
+      {
+        "potohar": ["basegrade--9"]
+      },
+      {
+        "ravi": ["deckless--2", "efi-euro-ll", "pickup-std-vx", "std-vx-cng"]
+      },
+      {
+        "s-cross": ["sz5"]
+      },
+      {
+        "samurai": ["sj"]
+      },
+      {
+        "sj410": []
+      },
+      {
+        "solio": ["s-idling-stop"]
+      },
+      {
+        "solio-bandit": []
+      },
+      {
+        "spacia": ["t--5", "x--32"]
+      },
+      {
+        "sx4": []
+      },
+      {
+        "vitara": ["gl-1-6", "glx-1-6", "xl-7"]
+      },
+      {
+        "xbee": ["mx--4", "mz"]
+      }
+    ]
+  },
+  {
+    "honda": [
+      {
+        "city": [
+          "1-2l-cvt",
+          "1-2l-m-t",
+          "i-vtec--2",
+          "i-vtec-prosmatec",
+          "1-5-i-vtec",
+          "1-5-i-vtec-prosmatec",
+          "1-5l-aspire-cvt",
+          "1-5l-aspire-m-t",
+          "1-5l-cvt",
+          "aspire-1-3-i-vtec",
+          "aspire-2",
+          "aspire-1-3-i-vtec-prosmatec",
+          "aspire-prosmatec",
+          "exi-2",
+          "1-5-exi-neo",
+          "exis",
+          "exis-automatic",
+          "i-dsi",
+          "i-dsi-vario",
+          "vtec-steermatic"
+        ]
+      },
+      {
+        "civic": [
+          "1-5-rs-turbo",
+          "1-5-vtec-turbo-oriel",
+          "1-8-i-vtec-cvt",
+          "basegrade--4",
+          "el-2",
+          "ep3",
+          "ex-2",
+          "exi-3",
+          "exi-automatic",
+          "exi-prosmatic",
+          "gl",
+          "lxi",
+          "mx--2",
+          "mxb",
+          "mxst",
+          "oriel",
+          "oriel-1-8-i-vtec-cvt",
+          "oriel-prosmatec-ug",
+          "civic-rs",
+          "si--2",
+          "standard",
+          "turbo-1-5-vtec-cvt",
+          "vti-1-6",
+          "vti-1-8-i-vtec",
+          "vti-automatic",
+          "vti-oriel-2",
+          "vti-1-8-i-vtec-oriel",
+          "vti-oriel-automatic",
+          "vti-oriel-prosmatec",
+          "vti-1-8-i-vtec-oriel-prosmatec",
+          "vti-oriel-ug",
+          "vti-oriel-prosmatec-ug",
+          "vti-prosmatec",
+          "vti-1-8-i-vtec-prosmatec"
+        ]
+      },
+      {
+        "vezel": [
+          "e-hev-play",
+          "e-hev-x",
+          "e-hev-z",
+          "g--41",
+          "hybrid-rs-honda-sensing",
+          "hybrid-x",
+          "hybrid-x-honda-sensing",
+          "hybird-xl",
+          "hybrid-x-style-edition",
+          "hybrid-z",
+          "hybrid-z-honda-sensing",
+          "hybrid-z-style-edition",
+          "s--22",
+          "x--33",
+          "x-honda-sensing"
+        ]
+      },
+      {
+        "n-wgn": [
+          "c--4",
+          "custom-g--3",
+          "custom-g-l-package",
+          "custom-g-turbo",
+          "g--52",
+          "g--58",
+          "g-a-package",
+          "g-l-package--10",
+          "g-turbo-package--4"
+        ]
+      },
+      {
+        "accord": [
+          "1-5l-vtec-turbo",
+          "e-2-4",
+          "il-2-4",
+          "tl-2-0",
+          "tl-smart-style-package-2-0",
+          "tl-2-4",
+          "tl-sports-style-2-4",
+          "cf-3",
+          "cl7",
+          "cl8",
+          "cl9",
+          "euro-r",
+          "ex",
+          "type-s-2-4",
+          "type-s-advance-package-2-4",
+          "2-4-i-vtec-prosmatec"
+        ]
+      },
+      {
+        "accord-tourer": ["tl-smart-style-package-2-0--2"]
+      },
+      {
+        "acty": ["basegrade--10"]
+      },
+      {
+        "acura": []
+      },
+      {
+        "airwave": ["hdd-navi-hid-edition", "m--2", "m-s-package", "sky", "st"]
+      },
+      {
+        "br-v": ["i-vtec--4", "i-vtec-mt", "i-vtec-s"]
+      },
+      {
+        "cr-v": [
+          "2-0-cvt",
+          "g-2-0--2",
+          "g-leather-package-2-0",
+          "2-4g-leather-package",
+          "zl-alcantara-style-2-4",
+          "zli-2-4",
+          "zx-hdd-navi-smart-edition-2-4"
+        ]
+      },
+      {
+        "cr-z-sports-hybrid": [
+          "alpha",
+          "alpha-black-label",
+          "alpha-master-label",
+          "metallic-colors-prosmatec",
+          "milano-red-prosmatec",
+          "base-grade-manual",
+          "beta",
+          "japan-car-of-the-year-memorial"
+        ]
+      },
+      {
+        "concerto": []
+      },
+      {
+        "crossroad": ["l-x-package-1-8", "l-1-8--2", "x-1-8", "xi-2-0"]
+      },
+      {
+        "ferrio": []
+      },
+      {
+        "fit": [
+          "10th-anniversary--11",
+          "base-grade-1-3",
+          "navi-premium-selection",
+          "xh-selection",
+          "1-5-executive",
+          "base-grade-1-5",
+          "f-package",
+          "l-package",
+          "rs--2",
+          "s-package",
+          "smart-selection",
+          "g-1-3",
+          "13g-f-package",
+          "13g-s-package",
+          "g-smart-selection-1-3",
+          "rs-1-5",
+          "shuttle-hybrid",
+          "x-l-package--2"
+        ]
+      },
+      {
+        "fit-aria": ["1-5c"]
+      },
+      {
+        "freed": [
+          "hybrid-b--2",
+          "hybrid-ex--2",
+          "hybrid-g-honda-sensing--2",
+          "flex",
+          "flex-f-package",
+          "g--10",
+          "hybrid--6",
+          "hybrid-b",
+          "hybrid-ex",
+          "hybrid-g-honda-sensing",
+          "hybrid-modulo-x-honda-sensing"
+        ]
+      },
+      {
+        "grace--2": ["dx--5", "ex--2", "lx--3"]
+      },
+      {
+        "hr-v": ["cvt", "vti", "vti-s"]
+      },
+      {
+        "insight": [
+          "ex--5",
+          "ex-black-style--2",
+          "g--11",
+          "hdd-navi-special-edition",
+          "l--12",
+          "ls",
+          "touring--3"
+        ]
+      },
+      {
+        "insight-exclusive": ["xg--2", "xl--2", "xl-inter-navi-select"]
+      },
+      {
+        "inspire": []
+      },
+      {
+        "integra": []
+      },
+      {
+        "jade-hybrid": ["hybrid-x--2"]
+      },
+      {
+        "life": [
+          "c",
+          "c-special-edition-comfort-special",
+          "comfort-special",
+          "diva-2",
+          "diva-smart-special",
+          "diva-turbo",
+          "diva-turbo-smart-style",
+          "g-special-edition-hid-smart-special",
+          "special"
+        ]
+      },
+      {
+        "n-box": [
+          "2-tone-color-style-g-l-package",
+          "2-tone-color-style-g-ss-package",
+          "2tone-color-style-g-turbo-l-package",
+          "c--3",
+          "g--13",
+          "g-l-package--3",
+          "g--12",
+          "g-turbo-l-package",
+          "g-ss-package",
+          "g-turbo-l-package--2",
+          "g-turbo-ss-package",
+          "g-l-package--2",
+          "g-l-package--5",
+          "moduro-x-g",
+          "g--53",
+          "g-l-package--12",
+          "x-turbo-package"
+        ]
+      },
+      {
+        "none": [
+          "g",
+          "g-l-package--11",
+          "g-lowdown-basic",
+          "premium--2",
+          "premium-ss-brown-style-package",
+          "premium-tourer",
+          "ss-brown-style-package",
+          "tourer"
+        ]
+      },
+      {
+        "n-van": ["g--60"]
+      },
+      {
+        "any-model-139": []
+      },
+      {
+        "partner": []
+      },
+      {
+        "s660": ["alpha--3"]
+      },
+      {
+        "spike": ["hybrid-ex--3"]
+      },
+      {
+        "stepwagon": ["g-l-package--6"]
+      },
+      {
+        "stream": [
+          "rst-1-8",
+          "rsz-s-package-1-8",
+          "rsz-special-edition-hdd-navi-edition-1-8",
+          "x-1-8--2"
+        ]
+      },
+      {
+        "thats": ["item", "special-edition-turbo"]
+      },
+      {
+        "vamos": ["g--17", "m-stylish-package", "special--2"]
+      },
+      {
+        "vamos-hobio": ["g--18"]
+      },
+      {
+        "zest": ["d--2", "dynamic-special", "special--3", "sports-g-turbo"]
+      }
+    ]
+  },
+  {
+    "daihatsu": [
+      {
+        "mira": [
+          "b--3",
+          "l--4",
+          "rs",
+          "x--3",
+          "es",
+          "g-sa--2",
+          "g-sa-iii",
+          "g-smart-drive-package",
+          "l--10",
+          "l-sa--2",
+          "tx-special",
+          "x--8",
+          "x-limited--3",
+          "x-limited-er",
+          "x-limited-smart-drive-package",
+          "x-memorial-edition",
+          "x-sa--2",
+          "x-special--6"
+        ]
+      },
+      {
+        "cuore": [
+          "cl--3",
+          "cl-eco",
+          "cx-2",
+          "cx-a-t",
+          "coure-cx",
+          "cx-ecomatic"
+        ]
+      },
+      {
+        "move": [
+          "custom-g",
+          "l--22",
+          "custom-r",
+          "custom-r-vs",
+          "custom-rs",
+          "rs--8",
+          "custom-x",
+          "custom-x-limited",
+          "l--6",
+          "x--5",
+          "x-limited",
+          "x-turbo--2"
+        ]
+      },
+      {
+        "hijet-van": ["cruise", "cruise-turbo", "deluxe", "special--4"]
+      },
+      {
+        "charade": [
+          "cl",
+          "cs",
+          "cx-2",
+          "cx-turbo",
+          "detomaso",
+          "g10",
+          "gtt-i",
+          "gtt-x"
+        ]
+      },
+      {
+        "atrai-wagon": [
+          "custom-turbo-r",
+          "custom-turbo-r-black-edition",
+          "custom-turbo-rs",
+          "custom-turbo-rs-limited"
+        ]
+      },
+      {
+        "bego": ["cl--2"]
+      },
+      {
+        "boon": [
+          "1-0-cl",
+          "1-0-cl-limited",
+          "1-0-cl--2",
+          "1-0-x4",
+          "1-3-custom",
+          "1-3-cx"
+        ]
+      },
+      {
+        "cast": [
+          "activa-g",
+          "activa-g-turbo",
+          "activa-x",
+          "activa-x-sa-iii",
+          "sport-turbo-sa-iii",
+          "style-g",
+          "style-g-turbo",
+          "style-x",
+          "style-x-sa-iii"
+        ]
+      },
+      {
+        "charmant": []
+      },
+      {
+        "coo": []
+      },
+      {
+        "copen": [
+          "active-top",
+          "cero",
+          "robe",
+          "robe-s",
+          "ultimate-leather-edition",
+          "x-play"
+        ]
+      },
+      {
+        "esse": ["custom--3", "d", "eco", "l--28", "x--7", "x-special--5"]
+      },
+      {
+        "mira-cocoa": ["l--3", "x-special"]
+      },
+      {
+        "mira-gino--2": ["l--5", "premium-x", "x--4"]
+      },
+      {
+        "move-canbus": []
+      },
+      {
+        "move-conte": [
+          "custom-g--2",
+          "custom-rs--2",
+          "custom-x--2",
+          "custom-x-limited--2"
+        ]
+      },
+      {
+        "any-model-128": []
+      },
+      {
+        "rocky": ["1-0-r-tc", "g--59", "premium--6"]
+      },
+      {
+        "sirion": ["xv-package"]
+      },
+      {
+        "sonica": ["r--5", "rs--10"]
+      },
+      {
+        "storia": []
+      },
+      {
+        "taft": ["x-turbo--4"]
+      },
+      {
+        "tanto": [
+          "custom-rs--4",
+          "custom-x--4",
+          "custom-x-limited-sa-iii",
+          "g--47",
+          "g-sa",
+          "x--37",
+          "x-special--7",
+          "x-turbo--3"
+        ]
+      },
+      {
+        "terios": ["1-5l-m-t-2wd", "1-5l-a-t-4wd"]
+      },
+      {
+        "terios-kid": [
+          "custom-l",
+          "custom-memorial-edition",
+          "custom-x--3",
+          "l--9",
+          "x--34"
+        ]
+      },
+      {
+        "thor": ["custom-g-turbo--2"]
+      },
+      {
+        "wake": []
+      }
+    ]
+  },
+  {
+    "adam": [
+      {
+        "revo": ["1051cc", "797cc"]
+      },
+      {
+        "zabardast--2": ["econo"]
+      }
+    ]
+  },
+  {
+    "alfa-romeo": [
+      {
+        "any-model-159": []
+      }
+    ]
+  },
+  {
+    "audi": [
+      {
+        "a6": [
+          "1-8-tfsi-s-tronic",
+          "1-8-tfsi-business-class-edition",
+          "saloon--2",
+          "s6-saloon",
+          "45-tfsi-quattro-s-tronic"
+        ]
+      },
+      {
+        "a4": ["1-4-tfsi--3", "s4-avant", "1-8t-cabriolet"]
+      },
+      {
+        "a3": [
+          "1-2-tfsi-base-model",
+          "1-2-tfsi-design-line",
+          "1-2-tfsi-exclusive-line",
+          "1-2-tfsi",
+          "1-8-tfsi--3",
+          "1-8-tfsi--2"
+        ]
+      },
+      {
+        "a5": [
+          "sportsback",
+          "1-8-tfsi",
+          "sportback",
+          "3-2-fsi-quattro",
+          "s5-sportback"
+        ]
+      },
+      {
+        "a8": []
+      },
+      {
+        "a1": ["sportback--2"]
+      },
+      {
+        "a7": ["s7-sportback"]
+      },
+      {
+        "any-model-224": []
+      },
+      {
+        "q2": ["1-0-tfsi-exclusive-line", "1-0-tfsi-standard-line"]
+      },
+      {
+        "q3": ["1-4-tfsi", "35-tdi", "1-4-tfsi-sport"]
+      },
+      {
+        "q5": ["2-0-tfsi-s-tronic-quattro"]
+      },
+      {
+        "q7": ["3-0-tdi", "3-0-tsfi", "3-0-tfsi-s-line", "3-6-FSI", "4-2-fsi"]
+      },
+      {
+        "tt": ["coupe--5", "roadster--4", "tt-rs-coupe"]
+      },
+      {
+        "e-tron": [
+          "50-quattro-230-kw",
+          "50-quattro-sportback-230kw",
+          "55-quattro-300kw"
+        ]
+      },
+      {
+        "e-tron-gt": ["rs--12", "standard--8"]
+      }
+    ]
+  },
+  {
+    "austin": [
+      {
+        "mini--2": []
+      }
+    ]
+  },
+  {
+    "baic": [
+      {
+        "bj40": []
+      },
+      {
+        "bj40-plus": ["honorable-edition"]
+      },
+      {
+        "senova-x25": []
+      }
+    ]
+  },
+  {
+    "bmw": [
+      {
+        "7-series": [
+          "730d",
+          "730ld",
+          "730li",
+          "735i",
+          "740-le-xdrive",
+          "740i",
+          "740li",
+          "745i",
+          "745li",
+          "750-li",
+          "750i-2",
+          "750li",
+          "760i",
+          "760li",
+          "active-hybrid-7",
+          "active-hybrid-7l"
+        ]
+      },
+      {
+        "3-series": [
+          "316i",
+          "318i",
+          "320d",
+          "320i",
+          "325i",
+          "330e",
+          "335i",
+          "m3"
+        ]
+      },
+      {
+        "5-series": [
+          "520d",
+          "520i",
+          "523i",
+          "525d",
+          "525i",
+          "528i",
+          "530d",
+          "530e",
+          "530i",
+          "545i",
+          "activehybrid-5"
+        ]
+      },
+      {
+        "x5-series": [
+          "30i--31",
+          "44i",
+          "30d--31",
+          "35d",
+          "35i--36",
+          "xdrive45e",
+          "50i"
+        ]
+      },
+      {
+        "x1-series": ["sdrive18i"]
+      },
+      {
+        "2-series": ["218i"]
+      },
+      {
+        "6-series": ["645ci"]
+      },
+      {
+        "m-series": ["m5-sedan"]
+      },
+      {
+        "any-model": []
+      },
+      {
+        "x3-series": ["28i--29", "30i"]
+      },
+      {
+        "x6-series": []
+      },
+      {
+        "x7": ["xdrive40i"]
+      },
+      {
+        "z3": ["z-3"]
+      },
+      {
+        "i7": ["xdrive60"]
+      },
+      {
+        "i8": ["coupe--7", "roadster--5"]
+      },
+      {
+        "ix": ["xDrive40"]
+      }
+    ]
+  },
+  {
+    "bentley": [
+      {
+        "continental-gt": []
+      },
+      {
+        "other--2": []
+      }
+    ]
+  },
+  {
+    "buick": [
+      {
+        "any-model-225": []
+      }
+    ]
+  },
+  {
+    "cadillac": [
+      {
+        "any-model-94": []
+      },
+      {
+        "escalade-ext": []
+      }
+    ]
+  },
+  {
+    "changan": [
+      { "kalam": ["CNG-800-CC", "basegrade--6"] },
+      { "alsvin": ["1-3l-mt-comfort", "1-5l-dct-comfort", "1-5l-dct-lumiere"] },
+      { "a800": ["1-5t--2"] },
+      { "cs35-plus": [] },
+      { "cx70t": ["1-5t--3"] },
+      { "kaghan": ["basegrade--5"] },
+      { "kalash": ["pickup--2"] },
+      { "karvaan": ["base-model-1-0", "plus--5"] },
+      { "m8": ["base-model-1-0--3"] },
+      { "m9": ["base-model-1-0--2"] },
+      { "oshan-x7": ["comfort--2", "futuresense"] }
+    ]
+  },
+  {
+    "chery": [
+      { "qq": ["0-8l-comfortable", "0-8l-standard"] },
+      { "tiggo-4": ["dex-1-5t"] },
+      { "tiggo-4-pro": ["dex-plus-1-5t"] },
+      { "tiggo-8": [] },
+      { "tiggo-8-pro": ["1-6-dex-plus"] }
+    ]
+  },
+  {
+    "chevrolet": [
+      { "joy": ["1-0", "1-0-cng"] },
+      { "optra": ["1-4--2", "16-a-t", "ls-m-t"] },
+      { "exclusive": ["ls-0-8"] },
+      { "spark": ["ls-m-t--2"] },
+      { "aveo": ["lt-m-t-with-abs-and-airbag", "lt-a-t-with-abs-and-airbag"] },
+      { "bel-air": [] },
+      { "caprice": [] },
+      { "corvette": ["2lt-coupe"] },
+      { "cruze": ["premier--2"] },
+      { "matiz": [] },
+      { "opala": [] },
+      { "any-model-95": [] },
+      { "trailblazer": ["lt--2"] }
+    ]
+  },
+  { "citroen": [{ "any-model-226": [] }] },
+  { "classic-cars": [{ "any-model-117": [] }] },
+  {
+    "dfsk": [
+      { "c37": ["euro-v"] },
+      { "shahbaz": ["v21"] },
+      { "glory-500": [] },
+      { "glory-580": ["1-5-cvt", "1-5-mt", "1-8-cvt", "pro"] }
+    ]
+  },
+  { "daehan": [{ "shehzore--2": ["pickup-2-6"] }] },
+  {
+    "daewoo": [
+      { "racer": ["1-5-gti", "base-grade-1-5"] },
+      { "cielo": ["gle"] },
+      { "any-model-123": [] }
+    ]
+  },
+  {
+    "datsun": [
+      { "120y-255": ["y-1-2"] },
+      { "any-model-228": [] },
+      { "coupe--2": [] },
+      { "1000": [] },
+      { "1200": [] },
+      { "cherry": [] }
+    ]
+  },
+  { "dodge": [{ "challenger": [] }, { "ram": ["1500--2"] }] },
+  {
+    "faw": [
+      { "x-pv": ["basic", "dual-ac", "power-edition", "standard--4"] },
+      { "v2": ["vct-i"] },
+      { "carrier": ["deckless", "flatbed", "standard--3"] },
+      { "sirius": ["s80-grand-1-5l"] },
+      { "besturn": [] },
+      { "hongqi-luxury-sedan": [] },
+      { "jiaxing-mini-mpvs": [] },
+      { "vita-sedans": ["a-series"] }
+    ]
+  },
+  { "ferrari": [{ "california": [] }] },
+  { "fiat": [{ "uno": ["1-3--4"] }, { "any-model-124": [] }, { "124": [] }] },
+  {
+    "ford": [
+      { "any-model-229": [] },
+      { "ranger": ["xlt"] },
+      { "bronco": [] },
+      { "mutt-m-825": [] },
+      { "f-150-xl": ["raptor-3-5l-eco-boost", "raptor"] },
+      { "f-150-shelby": ["supercharged"] },
+      { "fairlane": [] },
+      { "fiesta": [] },
+      { "mustang-mach-e": [] }
+    ]
+  },
+  { "gmc": [{ "sierra--2": ["denali"] }] },
+  { "geely": [{ "ck": [] }] },
+  {
+    "haval": [
+      { "h6": ["1-5t", "2-0t-awd", "hev", "high"] },
+      { "jolion": ["top"] }
+    ]
+  },
+  { "hino": [{ "500-series": [] }, { "any-model-325": [] }] },
+  { "hummer": [{ "h2": ["6-0-type-g", "base--3"] }, { "h3": ["alpha--5"] }] },
+  {
+    "hyundai": [
+      { "tucson": ["awd-a-t-ultimate", "fwd-a-t-gls-sport"] },
+      { "sonata": ["2-0--3", "2-5--2"] },
+      { "grand-starex": ["glx--4"] },
+      { "elantra": ["gl--9", "gls--9"] },
+      {
+        "santro": [
+          "club-2",
+          "club-gv-cng",
+          "exec-2",
+          "exec-gv-cng",
+          "plus--3",
+          "prime",
+          "prime-gv"
+        ]
+      },
+      { "terracan": ["2-9-crtd"] },
+      { "accent": ["le"] },
+      { "coupe": ["20l-dohc-m-t"] },
+      { "excel": ["basegrade--7"] },
+      { "grace": [] },
+      { "h-100": ["flat-deck", "2-6-mt"] },
+      { "h1--2": ["automatic--3"] },
+      { "any-model-130": [] },
+      { "santa-fe": ["gls--5"] },
+      {
+        "shehzore": [
+          "pickup-h-100",
+          "pickup-h-100-flat-bed",
+          "pickup-h-100-with-deck-side-wall"
+        ]
+      },
+      { "i10": ["asta"] }
+    ]
+  },
+  {
+    "isuzu": [
+      {
+        "d-max": [
+          "hi-lander-4x4-double-cab-standard",
+          "v-cross-3-0",
+          "v-cross-automatic-3-0"
+        ]
+      },
+      { "nkr": [] },
+      { "any-model-125": [] },
+      { "trooper": [] }
+    ]
+  },
+  { "jac": [{ "t6": ["comfort"] }, { "x200": ["base-grade--12"] }] },
+  { "jmc": [{ "new-boarding": [] }, { "vigus": ["4x4-double-cab"] }] },
+  {
+    "jw-forland": [
+      { "bravo": ["1-0--3"] },
+      { "c-10": [] },
+      { "c-19": [] },
+      { "t-5": [] },
+      { "tm-2-0": [] }
+    ]
+  },
+  {
+    "jaguar": [
+      { "any-model-100": [] },
+      { "s-type": ["3-0--2"] },
+      { "xf": ["3-0-v6-premium-luxury"] }
+    ]
+  },
+  {
+    "jeep": [
+      { "any-model-101": [] },
+      { "m-151": ["basegrade--11"] },
+      { "wrangler": ["black-tie-edition", "custom--4", "rubicon-2", "sahara"] },
+      { "cj-5": ["2-5", "cj-5"] },
+      { "cj-7": ["cj-7"] },
+      { "bj212": [] },
+      { "cherokee": ["country-limited"] },
+      { "cj-6": [] },
+      { "commander-5-7-v8-hemi": [] },
+      { "gladiator-rubicon": ["rubicon"] },
+      { "m-825": [] }
+    ]
+  },
+  {
+    "kia": [
+      {
+        "sportage": [
+          "EX-AT-2-0L-4x4",
+          "lx-mt-2-0l-4x4",
+          "lx-at-2-0l-4x4",
+          "alpha--2",
+          "awd",
+          "fwd"
+        ]
+      },
+      { "picanto": ["1-0-at", "1-0-mt"] },
+      { "spectra": ["1-5--3", "1-6--2"] },
+      { "sorento": ["2-4-awd", "2-4-fwd", "3-5-fwd"] },
+      { "pride": ["1-1"] },
+      { "cerato": [] },
+      { "classic": ["lx--4"] },
+      {
+        "carnival": [
+          "high-spec",
+          "ex-plus",
+          "executive",
+          "gls--7",
+          "gls--8",
+          "standard--7"
+        ]
+      },
+      { "niro": ["hybrid--8"] },
+      { "any-model-134": [] },
+      { "rio": ["s--35"] },
+      { "stonic": ["ex--3", "ex--4"] }
+    ]
+  },
+  { "lada": [{ "riva": [] }] },
+  {
+    "land-rover": [
+      { "defender": ["110", "130", "90"] },
+      { "freelander": ["hse--2"] },
+      { "any-model-102": [] },
+      { "discovery": ["hse-luxury"] },
+      { "series-i": [] }
+    ]
+  },
+  {
+    "lexus": [
+      { "rx-series": ["300", "350", "400h", "450h--3", "450h--2", "450h-l"] },
+      { "ct200h": ["base-model", "f-sport-package", "version-c", "version-l"] },
+      { "lx-series": ["lx470", "lx570", "lx600"] },
+      { "es-series": [] },
+      { "gs-series": ["450h"] },
+      { "is-series": [] },
+      { "ls-series": [] },
+      { "nx": ["300h"] },
+      { "sc-430": [] }
+    ]
+  },
+  {
+    "mg": [
+      { "3": [] },
+      { "6": [] },
+      { "ep": [] },
+      { "hs--2": ["1-5-turbo", "essence", "ehs", "trophy"] },
+      { "marvel-r": [] },
+      { "any-model-231": [] },
+      { "zs": ["1-5l"] },
+      { "zs-ev": ["luxury"] }
+    ]
+  },
+  { "mini": [{ "cooper": ["hard-top", "one", "s--20"] }] },
+  { "master": [{ "foton": ["m-280"] }] },
+  {
+    "mazda": [
+      { "carol": ["g--46", "gf", "gii--2", "gl--6", "gs--4", "gx--2"] },
+      { "scrum": ["buster", "pa--2", "pc--2", "pu--2"] },
+      { "flair": ["xg--4", "xs--7"] },
+      {
+        "rx-8": [
+          "rotary-engine-40th-anniversary",
+          "type-e",
+          "type-e-sport-prestige-limitedii",
+          "type-s--2"
+        ]
+      },
+      { "carol-eco": ["l--17", "s--16"] },
+      { "1300": [] },
+      { "323": [] },
+      { "626": [] },
+      { "808": [] },
+      { "929": [] },
+      { "axela": ["15c"] },
+      { "axela-sport": ["1-5s-style"] },
+      { "azwagon": ["xs-special"] },
+      { "azwagon-custom-style": [] },
+      { "b2200": [] },
+      { "cx3": ["touring"] },
+      { "e-2200": [] },
+      { "familia-van": [] },
+      { "flair-custom-style": ["xt--3"] },
+      { "flair-wagon": ["xs--6"] },
+      { "mx-5": [] },
+      { "any-model-105": [] },
+      { "premacy": ["20cs-aero-style-touring-selection"] },
+      { "roadster": ["s--17"] },
+      { "rx-7": [] },
+      { "scrum-wagon": ["px", "pz-turbo--2"] },
+      { "titan--2": ["1-5t--4"] }
+    ]
+  },
+  {
+    "mercedes-benz": [
+      {
+        "c-class": [
+          "c-180-cabriolet",
+          "c180-2",
+          "c180-amg",
+          "c180-avantgarde",
+          "c180-exclusive",
+          "c200",
+          "c-200-cdi",
+          "c200-kompressor",
+          "c-240",
+          "c250-bf",
+          "c250-2",
+          "c63"
+        ]
+      },
+      {
+        "e-class": [
+          "e-180-amg",
+          "e-180-exclusive",
+          "e-500",
+          "e190",
+          "e-200",
+          "e200-2",
+          "e200-avantgarde",
+          "e200-exclusive",
+          "e-220",
+          "e-220-cdi",
+          "e-230",
+          "e-240",
+          "e-250",
+          "e250-avantgarde",
+          "e-270-cdi",
+          "e-280",
+          "e-300",
+          "e320",
+          "e55-amg",
+          "e-63-amg"
+        ]
+      },
+      {
+        "s-class": [
+          "280-se",
+          "300se",
+          "300sel",
+          "s320",
+          "s-560-e",
+          "s-350",
+          "s-400-hybrid",
+          "s400-l-hybrid-amg",
+          "s400l-hybrid",
+          "s-500",
+          "s550"
+        ]
+      },
+      { "smart": [] },
+      { "200d": [] },
+      { "200t": [] },
+      { "250-gd": [] },
+      { "250d": [] },
+      { "a-class": ["a200"] },
+      { "c-class-coupe": ["c-180--2", "c-200--3"] },
+      { "c-class-estate": ["c-220-cdi--2"] },
+      { "cla-class": ["180", "200"] },
+      {
+        "clk-class": [
+          "clk-200-kompressor",
+          "clk-200-kompressor-cabriolet",
+          "clk-320"
+        ]
+      },
+      { "cls": ["cls-350-cdi", "cls-500"] },
+      { "cl-class": [] },
+      { "d-series": [] },
+      { "e-class-cabriolet": ["e-200--3", "e-250--4"] },
+      { "e-class-coupe": ["e-250--3"] },
+      { "e-class-estate": ["e-350-4matic--2"] },
+      { "eqe": [] },
+      { "eqs": [] },
+      { "g-class": ["g-350-bluetec", "g-500"] },
+      { "gla": ["200--2"] },
+      { "glb-class": ["glb-200-7-seater"] },
+      { "m-class": ["ml-350-bluetec-4matic"] },
+      { "mb140": [] },
+      { "any-model-106": [] },
+      { "slk": ["slk-200", "slk200-kompressor"] },
+      { "sl-class": ["sl-500"] },
+      { "sprinter--2": [] },
+      { "vito": [] },
+      { "x-class": ["x250d-progressive"] }
+    ]
+  },
+  {
+    "mitsubishi": [
+      {
+        "lancer": [
+          "1-5l-automatic",
+          "1-3-gl-2007-facelift",
+          "1-3-glx-2007-facelift",
+          "1-5-glx",
+          "1-6-glx",
+          "1-3-glx-automatic-2007-facelift",
+          "1-6-glx-automatic",
+          "1-6-glx-sr",
+          "1-6-glx-sr-automatic"
+        ]
+      },
+      {
+        "ek-wagon": [
+          "e--10",
+          "e-e-assist",
+          "g--3",
+          "g-safety-package",
+          "g-safety-plus-edition",
+          "gs",
+          "joy-field",
+          "limited--2",
+          "m",
+          "m-e-assist",
+          "navi-collection-m",
+          "marble-edition-ms",
+          "t-safety-package",
+          "x-hybrid-turbo-crossover-2wd"
+        ]
+      },
+      {
+        "pajero": [
+          "evolution",
+          "exceed-2-4",
+          "exceed-2-5d",
+          "intercooler",
+          "exceed-3-5",
+          "exceed-2-8d-automatic",
+          "gls-automatic-ltd",
+          "gls-automatic-v6-ltd-p-app",
+          "gls-automatic-d",
+          "gls-d",
+          "gls-automatic-v6-p",
+          "gr-3-0",
+          "gr-3-2d",
+          "io--2",
+          "short-zr",
+          "super-exceed-3-0d"
+        ]
+      },
+      {
+        "pajero-mini": [
+          "exceed-2",
+          "limited",
+          "navi-edition-vr",
+          "vr",
+          "xr",
+          "zr"
+        ]
+      },
+      { "mirage": ["g--51", "1-0-m", "1-0-s"] },
+      { "carisma": [] },
+      { "chariot": [] },
+      { "colt": [] },
+      { "ek-custom": ["g--50", "m--8"] },
+      { "ek-custom-space": [] },
+      { "ek-x": ["hybrid-turbo-crossover-2wd"] },
+      { "ek-sport": [] },
+      {
+        "galant": [
+          "1-6-glx--2",
+          "1-8-vx",
+          "base-grade-1-8",
+          "base-grade-2-0d",
+          "base-grade-2-0d--3"
+        ]
+      },
+      { "hiace--2": [] },
+      { "i": ["g--49", "m--7", "roar-complete-vivace", "s--27"] },
+      { "i-mivec": [] },
+      { "l200": ["2-5-d-c", "2-5-d-c-turbo", "2-8-glx-d-c"] },
+      { "l300": ["l300"] },
+      { "evo": [] },
+      { "minica": ["lyra", "natty", "pc--3"] },
+      { "minicab-bravo": [] },
+      { "any-model-108": [] },
+      { "outlander": [] },
+      { "pajero-junior": [] },
+      { "rvr": [] },
+      { "toppo": [] },
+      { "town-box": [] }
+    ]
+  },
+  { "morris": [{ "oxford": ["1000"] }] },
+  { "mushtaq": [{ "ky10": ["1-5-vvt"] }] },
+  {
+    "nissan": [
+      { "dayz-highway-star": [] },
+      {
+        "dayz": ["bolero-x--2", "bolero-s", "bolero-x", "j", "s--29", "x--40"]
+      },
+      {
+        "clipper": [
+          "axis",
+          "e--7",
+          "e-aero-version",
+          "e-four",
+          "e-four-aero-version",
+          "e-four-special-pack",
+          "e-special-pack",
+          "g--48",
+          "g-aero-version",
+          "g-four--3",
+          "nv100"
+        ]
+      },
+      {
+        "sunny": [
+          "1-3-executive-saloon-m-t",
+          "1-3-executive-saloon-m-t-cng",
+          "1-6-executive-saloon-m-t",
+          "1-6-executive-saloon-m-t-cng",
+          "1-3-exs",
+          "1-6-exs",
+          "gl--3",
+          "idlx",
+          "jx",
+          "lx",
+          "1-6-super-saloon-m-t",
+          "1-6-super-saloon-m-t-cng",
+          "1-6-super-saloon-a-t"
+        ]
+      },
+      {
+        "juke": [
+          "rs-15",
+          "15rs-type-v",
+          "rx-15",
+          "15rx-urban-selection-premium-white-package",
+          "15rx-type-v",
+          "15rx-urban-selection",
+          "16gt-four-premium-white-package"
+        ]
+      },
+      { "120y": [] },
+      { "350z": ["coupe--8"] },
+      { "370z": [] },
+      { "ad-van": ["1-3", "1-3-gx", "1-5", "1-5-gx"] },
+      { "almera": ["vlt"] },
+      { "bluebird": ["m--5"] },
+      { "bluebird-sylphy": ["15m-four", "15s--16", "20s--27"] },
+      { "carwan": [] },
+      { "cedric": ["y30"] },
+      { "cefiro": ["2-3-l-upper-automatic"] },
+      { "cube": ["rider", "15s"] },
+      { "kicks": ["xv-premium"] },
+      { "kix": ["1-3-turbo-xv"] },
+      { "latio": [] },
+      { "leaf": ["sl-plus"] },
+      {
+        "march": [
+          "e-12",
+          "14e-four-plus-navi-hdd-sp",
+          "14g-four",
+          "g-15",
+          "bolero",
+          "rafeet"
+        ]
+      },
+      {
+        "moco": [
+          "dolce-g",
+          "dolce-x",
+          "e-chocolatier-selection",
+          "g--24",
+          "g-four",
+          "g-four-aero-style",
+          "s--8",
+          "x--18",
+          "x-idling-stop--4",
+          "x-idling-stop-aero-style"
+        ]
+      },
+      { "murrano": ["platinum--2"] },
+      {
+        "navara": [
+          "2-5-le",
+          "2-5-se",
+          "3-0-le",
+          "aventura",
+          "outlaw",
+          "platinum",
+          "pro-4x--2"
+        ]
+      },
+      {
+        "note": [
+          "1-2e",
+          "rider-black-line-1-5",
+          "15-brownie-interior",
+          "e--6",
+          "e-power-black-arrow-edition",
+          "e-power-nismo",
+          "medalist",
+          "rider-dig-s",
+          "s--9",
+          "x--19",
+          "x-four--2"
+        ]
+      },
+      { "nv350caravan-wagon": ["gx"] },
+      { "any-model-109": [] },
+      { "otti": ["e--4", "s--11"] },
+      { "pathfinder": [] },
+      { "patrol": ["4-2-sgl", "4-8-grx", "4-8-grx-automatic", "xe--2"] },
+      { "pickup--3": [] },
+      { "pino": ["e--3", "s"] },
+      { "qashqai": ["sl"] },
+      {
+        "roox": [
+          "e--5",
+          "g-limited--2",
+          "highway-star-turbo",
+          "highway-star-turbo-urban-selection",
+          "highway-star-urban-selection",
+          "x--20",
+          "x-idling-stop--5"
+        ]
+      },
+      { "safari": [] },
+      { "sentra": [] },
+      { "serena": ["highway-star--2"] },
+      { "skyline": ["250gt--251"] },
+      { "sylphy": ["2-0--6"] },
+      { "terrano": ["ii"] },
+      { "tiida": ["15g--2", "15s--17", "18g--2", "latio"] },
+      { "titan": ["pro-4x"] },
+      { "vanette": [] },
+      {
+        "wingroad": [
+          "m-1-5",
+          "m-authentic-1-5",
+          "m-four-authentic-1-5",
+          "m-four-plus-navi-hdd-safety-1-5",
+          "15m-v-limited",
+          "axis-1-5",
+          "rider-1-5--2"
+        ]
+      },
+      {
+        "x-trail": [
+          "gt-2-0",
+          "xt-2-0",
+          "xtt-2-0",
+          "x-2-0--2",
+          "2-2-slx",
+          "2-5-slx-automatic",
+          "20x-x-tremer-x-plus-navi-hdd"
+        ]
+      },
+      { "z-series": [] }
+    ]
+  },
+  { "opel": [{ "rekord": [] }] },
+  { "peugeot": [{ "2008": ["active", "allure"] }, { "any-model-111": [] }] },
+  {
+    "porsche": [
+      {
+        "cayenne": [
+          "base-model--2",
+          "cayenne-gts",
+          "hybrid",
+          "platinum-edition--2",
+          "cayenne",
+          "s-e-hybrid-platinum-edition"
+        ]
+      },
+      { "panamera": ["4s", "s-e-hybrid", "turbo-s--2"] },
+      { "boxster": ["base-model-3-4"] },
+      { "taycan": ["turbo--6"] }
+    ]
+  },
+  {
+    "prince": [
+      { "pearl": ["mt"] },
+      { "k01": ["s--33"] },
+      { "k07": ["base--2", "s--34"] }
+    ]
+  },
+  {
+    "proton": [
+      {
+        "saga--2": [
+          "1-3l-ace-a-t",
+          "1-3l-r3-a-t",
+          "1-3l-r3-m-t",
+          "1-3l-standard-a-t",
+          "1-3l-standard-m-t"
+        ]
+      },
+      { "gen-2": [] },
+      { "impian": [] },
+      { "x70": ["executive-awd", "premium-fwd"] }
+    ]
+  },
+  {
+    "range-rover": [
+      {
+        "sport": [
+          "3-6-tdv6",
+          "4-4-v8",
+          "5-0-v8",
+          "hse--3",
+          "4-2-v8-supercharged",
+          "5-0-v8-supercharged",
+          "tdv6"
+        ]
+      },
+      {
+        "vogue": [
+          "3-0-v6-sc",
+          "4-4-v8--5",
+          "5-0-v8--6",
+          "p400e--2",
+          "4-2-v8-supercharged--5",
+          "5-0-v8-sc"
+        ]
+      },
+      { "any-model-156": [] },
+      { "autobiography": [] },
+      { "classic--2": [] },
+      { "evoque": ["2-2-sd4", "dynamic", "2-0-prestige"] },
+      { "velar": ["base-model-3-0"] }
+    ]
+  },
+  { "roma": [{ "family-van": [] }] },
+  { "sogo": [{ "family-van--2": [] }, { "pickup--2": ["efi-euro-ll--2"] }] },
+  {
+    "ssangyong": [
+      { "rexton": ["ultimate"] },
+      { "stavic": ["2wd", "4wd", "sv-270"] }
+    ]
+  },
+  {
+    "subaru": [
+      { "pleo": ["a--2", "f-special", "l--20", "l-limited--3"] },
+      { "stella": ["custom--5", "custom-rs--3", "l--21"] },
+      { "sambar-dias": ["vb-4wd"] },
+      { "r2": ["fwd--2"] },
+      { "dias-wagon": ["ls--3"] },
+      { "forester": ["s-edition"] },
+      { "impreza-xv": ["1-5i--2"] },
+      { "lucra": [] },
+      { "any-model-115": [] },
+      { "xv": ["crosstrek"] }
+    ]
+  },
+  {
+    "tesla": [{ "model-3": ["long-range"] }, { "model-s": ["long-range--2"] }]
+  },
+  {
+    "united": [{ "bravo--2": ["base-grade--13"] }, { "alpha": ["1-0-manual"] }]
+  },
+  {
+    "volkswagen": [
+      { "beetle": ["1100", "1200--2", "1500", "2-0--2"] },
+      { "up": [] },
+      { "polo": [] },
+      { "golf": [] },
+      { "amarok": [] },
+      { "double-cab-pickup": [] },
+      { "microbus": [] },
+      { "single-cab-pickup": [] }
+    ]
+  },
+  { "volvo": [{ "any-model-160": [] }, { "s90": [] }] },
+  { "willys": [{ "m38": [] }] }
+]
